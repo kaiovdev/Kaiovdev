@@ -1,12 +1,32 @@
 # 👨‍💻 Kaio Vinicius
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Front-End`**
 
-Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. Tenho conhecimento em frameworks/bibliotecas como React.js, TypeScript e Tailwind no Front-end e Node.js com Express.js e Prisma no Back-End. Também possuo conhecimento em bancos de dados, MySQL, PostgreeSQL e MongoDB.
+Olá, me chamo Kaio Vinicius e sou desenvolvedor front-end, com experiência em design UI e UX, apaixonado por criar interfaces intuitivas e funcionais. Atuo com React, Next.js, JavaScript, TypeScript e Tailwind CSS no desenvolvimento de aplicações web.
+
+Linkedin: https://www.linkedin.com/in/kaioviniciuscam/
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3"
+    title="CSS3" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -15,6 +35,15 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next" 
+    title="Next"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
@@ -44,34 +73,6 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="Node" 
-    title="Node"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Mongo" 
-    title="Mongo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Mongo" 
-    title="Mongo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Git" 
@@ -80,3 +81,4 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
