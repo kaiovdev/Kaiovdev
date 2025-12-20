@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá, me chamo Kaio Vinicius e sou desenvolvedor front-end, com experiência em design UI e UX, apaixonado por criar interfaces intuitivas e funcionais. Atuo com React, Next.js, JavaScript, TypeScript e Tailwind CSS no desenvolvimento de aplicações web.
+Olá, me chamo Kaio Vinicius, tenho 20 anos e sou desenvolvedor front-end, com experiência em design UI e UX, apaixonado por criar interfaces. Atuo com React, Next.js, JavaScript, TypeScript e Tailwind CSS no desenvolvimento de aplicações web.
 
 Linkedin: https://www.linkedin.com/in/kaioviniciuscam/
 
