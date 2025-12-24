@@ -6,6 +6,15 @@ Olá, me chamo Kaio Vinicius, tenho 20 anos e sou desenvolvedor front-end, com e
 
 Linkedin: https://www.linkedin.com/in/kaioviniciuscam/
 
+<img
+    align="center"
+    alt="img"
+    title="img"
+    style=""
+    width="300px"
+    src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-illustration-svg-download-png-6109661.png"
+/>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -75,25 +84,47 @@ Linkedin: https://www.linkedin.com/in/kaioviniciuscam/
 
 <img 
     align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiovdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
