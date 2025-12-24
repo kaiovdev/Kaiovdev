@@ -1,6 +1,6 @@
 # 👨‍💻 Kaio Vinicius
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
 Desenvolvedor fullstack, com experiência em design UI e UX. Desenvolvimento de aplicações web utilizando React, Next.js, JavaScript, TypeScript e Tailwind CSS, além de trabalhar no back-end com Node.js e Express.js. Possuo conhecimentos em bancos de dados MySQL, PostgreSQL e MongoDB
 
