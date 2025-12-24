@@ -11,7 +11,7 @@ Linkedin: https://www.linkedin.com/in/kaioviniciuscam/
     alt="img"
     title="img"
     style=""
-    width="300px"
+    width="250px"
     src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-illustration-svg-download-png-6109661.png"
 />
 
